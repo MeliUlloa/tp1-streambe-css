@@ -1,0 +1,20 @@
+#uno {
+   height: 150px;
+   border: 3px solid #092454; 
+   background-color: blue;
+}
+#dos {
+    height: 150px;
+    border: 3px solid #092454; 
+    background-color: rgb(255, 0, 0);
+ }
+ #tres {
+    height: 150px;
+    border: 3px solid #092454; 
+    background-color: rgb(247, 1, 206);
+ }
+ #cuatro {
+    height: 150px;
+    border: 3px solid #092454; 
+    background-color: rgb(83, 245, 9);
+ }
